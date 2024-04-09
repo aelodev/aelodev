@@ -9,9 +9,7 @@ También cuento con el título de Técnico de Sistemas Microinformáticos y Rede
 ## 🧑🏻‍💻 Tecnologías en las que tengo conocimientos
 
 [![Static Badge](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoColor=%23FFF&labelColor=rgba(26%2C%20117%2C%20232%2C%200.85))]()
-
 [![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=%23FFF&labelColor=rgba(255%2C%20142%2C%200%2C%201))]()
-
 [![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=blue)]()
 
 
