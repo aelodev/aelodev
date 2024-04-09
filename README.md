@@ -1,16 +1,40 @@
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub 👋
 
-<!--
-**Lucenabo/lucenabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Alejandro, un estudiante que cursa un Grado Superior de Desarrollo de Aplicaciones Multiplataforma,. .
 
-Here are some ideas to get you started:
+Además de mi formación académica, soy autodidacta y me encuentro dentro en el mundo de la ciberseguridad, especificamente en el área del pentesting. 🌐🔓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+También cuento con el título de Técnico de Sistemas Microinformáticos y Redes, lo que me da una sólida base en infraestructura tecnológica.
+
+## 🧑🏻‍💻 Tecnologías en las que tengo conocimientos
+
+[![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=%23FFF&labelColor=rgba(26%2C%20117%2C%20232%2C%200.85))]()
+
+[![Static Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=%23FFF&labelColor=rgba(255%2C%20142%2C%200%2C%201))]()
+
+[![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=white&labelColor=blue)]()
+
+
+<br>
+
+[![Static Badge](https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=white&labelColor=red)]()
+
+[![Static Badge](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=white&labelColor=yellow)]()
+
+[![Static Badge](https://img.shields.io/badge/GITHUB-white?style=flat&logo=github&logoColor=white&labelColor=black)
+]()
+
+
+## 👨‍💻 Colaboración
+
+¡Estoy abierto a cualquier oportunidad de aprendizaje! Si tienes un proyecto de código abierto en los que pueda colaborar no dudes en contactarme.
+
+## 📫 ¡Contáctame!
+
+[ ![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/alucenad/)
+
+<br>
+
+[![Static Badge](https://img.shields.io/badge/Mail-white?style=flat&logo=gmail&logoColor=white&labelColor=%23E24B3A)](mailto:alucena1002@gmail.com)
+
+¡Gracias por visitar mi perfil! 😎
