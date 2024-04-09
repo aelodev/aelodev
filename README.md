@@ -8,20 +8,20 @@ También cuento con el título de Técnico de Sistemas Microinformáticos y Rede
 
 ## 🧑🏻‍💻 Tecnologías en las que tengo conocimientos
 
-[![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=%23FFF&labelColor=rgba(26%2C%20117%2C%20232%2C%200.85))]()
+[![Static Badge](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoColor=%23FFF&labelColor=rgba(26%2C%20117%2C%20232%2C%200.85))]()
 
-[![Static Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=%23FFF&labelColor=rgba(255%2C%20142%2C%200%2C%201))]()
+[![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=%23FFF&labelColor=rgba(255%2C%20142%2C%200%2C%201))]()
 
-[![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=white&labelColor=blue)]()
+[![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=blue)]()
 
 
 <br>
 
-[![Static Badge](https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=white&labelColor=red)]()
+[![Static Badge](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=red)]()
 
-[![Static Badge](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=white&labelColor=yellow)]()
+[![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)]()
 
-[![Static Badge](https://img.shields.io/badge/GITHUB-white?style=flat&logo=github&logoColor=white&labelColor=black)
+[![Static Badge](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ]()
 
 
