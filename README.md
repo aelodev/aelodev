@@ -20,7 +20,7 @@ También cuento con el título de Técnico de Sistemas Microinformáticos y Rede
 ]()
 
 
-## 👨‍💻 Colaboración
+## 📲 Colaboración
 
 ¡Estoy abierto a cualquier oportunidad de aprendizaje! Si tienes un proyecto de código abierto en los que pueda colaborar no dudes en contactarme.
 
