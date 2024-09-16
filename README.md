@@ -15,7 +15,7 @@ También cuento con el título de Técnico de Sistemas Microinformáticos y Rede
 <br>
 
 [![Static Badge](https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=white&labelColor=red)]()
-[![Static Badge](https://img.shields.io/badge/GITHUB-white?style=flat&logo=github&logoColor=white&labelColor=black)
+[![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=white&labelColor=black)
 ]()
 
 
