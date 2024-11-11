@@ -32,3 +32,15 @@ También cuento con el título de Técnico de Sistemas Microinformáticos y Rede
 [![Static Badge](https://img.shields.io/badge/Mail-white?style=flat&logo=gmail&logoColor=white&labelColor=%23E24B3A)](mailto:alucena1002@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😎
+
+<br>
+
+## Random Dev Quotes
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Gabrielle?quoteCategory=fun) 
+
+                                 \   ^__^
+                                  \  (oo)\_______
+                                     (__)\       )\/\
+                                         ||----w |
+                                         ||     ||
