@@ -6,7 +6,7 @@ Además de mi formación académica, soy **autodidacta**, aprendiendo JavaScript
 
 Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en aprender herramientas modernas como React o Astro, mientras disfruto usando y personalizando **Linux** (Arch con Hyprland) como sistema principal.
 
-## 🧑🏻‍💻 Tecnologías en las que tengo conocimientos
+## 🛠️ Tecnologías en las que tengo conocimientos
 
 [![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=%23FFF&labelColor=rgba(26%2C%20117%2C%20232%2C%200.85))]()
 [![Static Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=%23FFF&labelColor=rgba(255%2C%20142%2C%200%2C%201))]()
