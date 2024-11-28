@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Alejandro, estudiante que cursa un Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 
-Además de mi formación académica, soy autodidacta y me encuentro dentro en el mundo de la ciberseguridad, especificamente en el área del pentesting. 🌐🔓
+Además de mi formación académica, soy autodidacta aprendiendo JavaScript, aunque también he estado formandome dentro en el mundo de la ciberseguridad, especificamente en el área del pentesting. 🌐🔓
 
 También cuento con el título de Técnico de Sistemas Microinformáticos y Redes, lo que me da una sólida base en infraestructura tecnológica.
 
