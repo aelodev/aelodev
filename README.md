@@ -1,10 +1,10 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy Alejandro, estudiante que cursa un Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
+¡Hola! Soy Alejandro,  un desarrollador apasionado y estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
 
-Además de mi formación académica, soy autodidacta aprendiendo JavaScript, aunque también he estado formandome dentro en el mundo de la ciberseguridad, especificamente en el área del pentesting. 🌐🔓
+Además de mi formación académica, soy **autodidacta**, aprendiendo JavaScript y explorando nuevas tecnologías. También tengo experiencia en ciberseguridad, especialmente en el área de pentesting, y una sólida base en infraestructura gracias a mi título como Técnico de Sistemas Microinformáticos y Redes. 🌐🔓
 
-También cuento con el título de Técnico de Sistemas Microinformáticos y Redes, lo que me da una sólida base en infraestructura tecnológica.
+Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en aprender herramientas modernas como React o Astro, mientras disfruto usando y personalizando **Linux** (Arch con Hyprland) como sistema principal.
 
 ## 🧑🏻‍💻 Tecnologías en las que tengo conocimientos
 
@@ -18,9 +18,14 @@ También cuento con el título de Técnico de Sistemas Microinformáticos y Rede
 [![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=white&labelColor=black)]()
 [![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=white&labelColor=yellow)]()
 
+## 🌟 Sobre mí
+- 🌍 Soy de **Málaga, Andalucía**, con mucho orgullo andaluz.
+- 🖥️ Uso Arch Linux con Hyprland, aprovechando al máximo la personalización de mi entorno.
+- 🌱 Actualmente aprendiendo React para mejorar mis habilidades en desarrollo frontend.
+
 ## 📲 Colaboración
 
-¡Estoy abierto a cualquier oportunidad de aprendizaje! Si tienes un proyecto de código abierto en los que pueda colaborar no dudes en contactarme.
+Estoy abierto a cualquier oportunidad de aprendizaje y colaboración. Si tienes un proyecto interesante, no dudes en contactarme.
 
 ## 📫 ¡Contáctame!
 
@@ -30,11 +35,9 @@ También cuento con el título de Técnico de Sistemas Microinformáticos y Rede
 
 [![Static Badge](https://img.shields.io/badge/Mail-white?style=flat&logo=gmail&logoColor=white&labelColor=%23E24B3A)](mailto:alucena1002@gmail.com)
 
-¡Gracias por visitar mi perfil! 😎
-
 <br>
 
-## Random Dev Quotes
+## ✨ Random Dev Quotes
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Gabrielle?quoteCategory=fun) 
 
