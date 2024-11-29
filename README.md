@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Alejandro,  un desarrollador apasionado y estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
 
-Además de mi formación académica, soy **autodidacta**, aprendiendo JavaScript y explorando nuevas tecnologías. También tengo experiencia en ciberseguridad, especialmente en el área de pentesting, y una sólida base en infraestructura gracias a mi título como Técnico de Sistemas Microinformáticos y Redes. 🌐🔓
+Además de mi formación académica, soy **autodidacta**, aprendiendo JavaScript y explorando nuevas tecnologías. También tengo experiencia en **ciberseguridad**, especialmente en el área de pentesting, y una sólida base en infraestructura gracias a mi título como Técnico de Sistemas Microinformáticos y Redes. 🌐🔓
 
 Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en aprender herramientas modernas como React o Astro, mientras disfruto usando y personalizando **Linux** (Arch con Hyprland) como sistema principal.
 
