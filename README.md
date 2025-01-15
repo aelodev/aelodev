@@ -9,7 +9,7 @@ Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en 
 ## 🛠️ Tecnologías en las que tengo conocimientos
 
 [![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=%23FFF&labelColor=rgba(26%2C%20117%2C%20232%2C%200.85))]()
-[![Static Badge](https://img.shields.io/badge/Astro-white?style=flat&logo=Astro&logoColor=white&labelColor=%23bc52ee))]()
+[![Static Badge](https://img.shields.io/badge/Astro-white?style=flat&logo=Astro&logoColor=white&labelColor=%23bc52ee)]()
 [![Static Badge](https://img.shields.io/badge/Zed-white.svg?style=flat&logo=zedindustries&logoColor=white&labelColor=black)]()
 
 <br>
