@@ -37,4 +37,6 @@ Estoy abierto a cualquier oportunidad de aprendizaje y colaboración. Si tienes 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucenabo&layout=compact&theme=catppuccin_mocha)]()
+<a href="https://github.com/lucenabo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenabo&layout=compact&theme=catppuccin_mocha" />
+</a>
