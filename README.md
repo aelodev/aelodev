@@ -37,12 +37,4 @@ Estoy abierto a cualquier oportunidad de aprendizaje y colaboración. Si tienes 
 
 <br>
 
-## ✨ Random Dev Quotes
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Gabrielle?quoteCategory=fun) 
-
-                                 \   ^__^
-                                  \  (oo)\_______
-                                     (__)\       )\/\
-                                         ||----w |
-                                         ||     ||
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucenabo&layout=compact&theme=transparent)]()
