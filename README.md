@@ -21,7 +21,7 @@ Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en 
 ## 🌟 Sobre mí
 - 🌍 Soy de **Málaga, Andalucía**, con mucho orgullo andaluz.
 - 🖥️ Uso Arch Linux con Hyprland, aprovechando al máximo la personalización de mi entorno.
-- 🌱 Actualmente aprendiendo Javascript para mejorar mis habilidades en desarrollo frontend.
+- 🌱 Actualmente aprendiendo JavaScript para mejorar mis habilidades en desarrollo frontend.
 
 ## 📲 Colaboración
 
