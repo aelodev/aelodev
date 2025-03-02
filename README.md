@@ -4,7 +4,7 @@
 
 Además de mi formación académica, soy **autodidacta**, aprendiendo JavaScript y explorando nuevas tecnologías. También tengo experiencia en **ciberseguridad**, especialmente en el área de pentesting, y una sólida base en infraestructura gracias a mi título como Técnico de Sistemas Microinformáticos y Redes. 🌐🔓
 
-Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en aprender herramientas modernas como React o Astro, mientras disfruto usando y personalizando **Linux** (Arch con Hyprland) como sistema principal.
+Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en aprender herramientas modernas como React o Astro.
 
 ## 🛠️ Tecnologías en las que tengo conocimientos
 
@@ -19,8 +19,8 @@ Actualmente, estoy trabajando en mi crecimiento como desarrollador, enfocado en 
 [![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=white&labelColor=yellow)]()
 
 ## 🌟 Sobre mí
-- 🌍 Soy de **Málaga, Andalucía**, con mucho orgullo andaluz.
-- 🖥️ Uso Arch Linux con Hyprland, aprovechando al máximo la personalización de mi entorno.
+- 🌍 Soy de **Málaga, Andalucía**.
+- 🚀 También conocimiento en backend utilzando **Java**.
 - 🌱 Actualmente aprendiendo JavaScript para mejorar mis habilidades en desarrollo frontend.
 
 ## 📲 Colaboración
