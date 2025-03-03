@@ -29,7 +29,7 @@ Estoy abierto a cualquier oportunidad de aprendizaje y colaboración. Si tienes 
 
 ## 📫 ¡Contáctame!
 
-[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alucenad/)
+[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alucenad/)
 
 <br>
 
